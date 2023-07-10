@@ -39,7 +39,7 @@
 - [【FileMaster-frontend】一个基于React的文件管理器，你可以轻松地操作服务器文件](https://github.com/chenmeilong/FileMaster-frontend)
 - [【GPSS】一个毕设选题系统，采用Vue+Django式全栈开发](https://github.com/chenmeilong/GPSS)
 - [【FCSECS】一个基于数字孪生的冷库控制系统，0到1实现嵌入式到WEB的全栈开发](https://github.com/chenmeilong/FCSECS)
-- [【SPS】一个声呐处理系统，实现多种声呐二进制数据解析，瀑布流，目标检测、存储，](https://github.com/chenmeilong/FCSECS)
+- [【SPS】一个声呐处理系统，PyQt实现多种声呐二进制数据批量解析，瀑布流，拼接，目标检测、标注、存储](https://github.com/chenmeilong/FCSECS)
 - [【commodity-etoucher】一个AI抠图器，拥有在线、离线版支持](https://github.com/chenmeilong/commodity-etoucher)
 - [【whale】Humpback Whale Identification](https://github.com/chenmeilong/whale)
 - [【IndoorEnvironmentMonitoringSystem】一个采用嵌入式、上位机、AI模型、BIM模型和Web实现的室内环境监测系统](https://github.com/chenmeilong/IndoorEnvironmentMonitoringSystem)
