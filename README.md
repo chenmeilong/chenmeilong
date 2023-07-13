@@ -42,7 +42,7 @@
 - [【SPS】一个声呐处理系统，PyQt实现多种声呐二进制数据批量解析，瀑布流，拼接，目标检测、标注、存储等功能](https://github.com/chenmeilong/SPS)
 - [【commodity-etoucher】一个AI抠图器，拥有在线、离线版支持](https://github.com/chenmeilong/commodity-etoucher)
 - [【whale】Humpback Whale Identification](https://github.com/chenmeilong/whale)
-- [【IndoorEnvironmentMonitoringSystem】一个采用嵌入式、上位机、AI模型、BIM模型和Web实现的室内环境监测系统](https://github.com/chenmeilong/IndoorEnvironmentMonitoringSystem)
+- [【IndoorEnvironmentMonitoringSystem】一个采用嵌入式、上位机、AI、BIM和Web实现的室内环境监测系统](https://github.com/chenmeilong/IndoorEnvironmentMonitoringSystem)
 
 
 There are some [tiny repo](https://github.com/chenmeilong?page=1&tab=repositories) ...
