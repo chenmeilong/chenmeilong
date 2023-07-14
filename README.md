@@ -41,7 +41,7 @@
 - [【FCSECS】一个基于数字孪生的冷库控制系统，0到1实现嵌入式到WEB的全栈开发](https://github.com/chenmeilong/FCSECS)
 - [【SPS】一个声呐处理系统，PyQt实现多种声呐二进制数据批量解析，瀑布流，拼接，目标检测、标注、存储等功能](https://github.com/chenmeilong/SPS)
 - [【commodity-etoucher】一个AI抠图器，拥有在线、离线版支持](https://github.com/chenmeilong/commodity-etoucher)
-- [【whale】kaggle座头鲸识别赛](https://github.com/chenmeilong/whale)
+- [【whale】Humpback Whale Identification, kaggle座头鲸识别赛](https://github.com/chenmeilong/whale)
 - [【IndoorEnvironmentMonitoringSystem】一个采用嵌入式、上位机、AI、BIM和Web实现的室内环境监测系统](https://github.com/chenmeilong/IndoorEnvironmentMonitoringSystem)
 
 
